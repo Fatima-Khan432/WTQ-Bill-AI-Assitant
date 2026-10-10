@@ -1,0 +1,65 @@
+[y=16 x=730] Sean Mith Rankinn Ann
+[y=48 x=496] You are a | CustomerInformation @x1051
+[y=62 x=129] KE | STAR @x493 | Contract No @x943 | Sanc Load @x1290 | 10 @x1534
+[y=104 x=942] Security Deposit | 2080.00 @x1169 | Conn Load @x1290 | 10 @x1534
+[y=124 x=564] Customer | Invoice No. @x942 | Tariff @x1289 | A1-R @x1515
+[y=159 x=943] Dispatch ID: | Customerlype @x1291 | NIVI @x1529
+[y=182 x=62] Bill Month: Jun-26 | lIssueDate:29-Jun-2026 @x242
+[y=206 x=932] KENTN No.1543137-1 | KE GST No.12-00-2716-007-28 @x1294
+[y=240 x=932] User Name:
+[y=268 x=931] Tenant CNIC/NTN/STRN:
+[y=296 x=931] Consumer No. | Meter No @x1204
+[y=429 x=84] Amount Due 小_a, | Current Month @x477 | Previous Dues @x859 | DueDate产 @x1319
+[y=469 x=158] Rs. 0 | 901 units = @x511 | Rs. -91,877.02 @x880 | 13th Jul 2026 @x1275
+[y=516 x=887] Remaining Dues 其 | Please pay within due date and save @x1262
+[y=544 x=47] Till 14-Jul-26-16-Jul-26 | After 16-Jul-26 @x51 | Rs.0 @x241 | Rs.0 @x262 | Rs.45,570.25 @x487 | Rs. -91,877.02 @x882 | Till 13-Jul-2026 @x1252 | Till 14-Jul-26-16-Jul-26 @x1254 | Rs.0.00 @x1455 | Rs.0.00 @x1501
+[y=596 x=508] Net Metering Benefit
+[y=627 x=530] Rs. -114,640.13
+[y=720 x=150] Electricity You Have Used | Bill Calculation LkJyL_ @x1005
+[y=780 x=267] Previous Reading | Current Reading @x405 | Units (KWh) @x574 | MDI (KW) @x727 | Reading Date: 25-Jun-26 /No.of Month(s): 1 @x1042
+[y=803 x=64] Energy - Off Peak | 1163.29 @x322 | 1923.73 @x457 | 760.44 @x598 | 4.686 @x740 | Bill Charge Mode: NORM I Installation Date: 22-May-2009 @x973
+[y=826 x=65] Energy - Peak | 402.35 @x331 | 542.85 @x462 | 140.5 @x606 | 3.354 @x739
+[y=848 x=66] Import Energy Off Peak | 10865.55 @x315 | 12238.4 @x458 | 1372.85 @x591 | 9.402 @x740
+[y=860 x=66] Import Energy Peak | 4.97 @x347 | 6.53 @x481 | 1.56 @x614 | 0.794 @x740 | Units @x1245 | Rate @x1374 | Amount @x1535
+[y=888 x=877] Fixed Charges | 675.0000 @x1365 | 3,375.00 @x1543
+[y=912 x=878] Variable Off Peak | 760.44 @x1264 | 34.5300 @x1372 | 26,257.99 @x1537
+[y=934 x=878] Variable Peak | 140.50 @x1264 | 46.8500 @x1373 | 6,582.43 @x1544
+[y=954 x=879] Uniform Quarterly Adjustment | 726.57 @x1261 | -1.9857 @x1375 | -1,442.74 @x1540
+[y=977 x=878] Uniform Quarterly Adjustment | 174.37 @x1263 | 0.3504 @x1380 | 61.10 @x1565
+[y=1000 x=143] 13 Month Usage History JJ13 | FCA :Apr-26 @x878 | 297.46 @x1263 | 1.1907 @x1380 | 354.19 @x1557
+[y=1022 x=879] Additional Surcharge (PHL) | 900.94 @x1263 | 3.2300 @x1380 | 2,910.04 @x1545
+[y=1043 x=51] 2025 | 2026 @x706 | Electricity Charges @x876 | 38,098.01 @x1534
+[y=1065 x=877] Electricity Duty | 520.85 @x1558
+[y=1088 x=877] Sales Tax u/s 3(1)* | 6,951.39 @x1545
+[y=1112 x=877] Taxes and Duties | 7,472.24 @x1542
+[y=1137 x=876] Electricity Charges for current month | 45,570.25 @x1535
+[y=1161 x=877] Opening Balance | -91,877.02 @x1530
+[y=1185 x=878] Previous Dues | -91,877.02 @x1530
+[y=1205 x=72] Jun | Jul @x130 | Aug @x176 | Sep @x234 | Oct @x292 | Nov @x343 | Dec @x400 | Feb @x508 | Mar @x561 | Apr @x617 | May @x669 | Jun @x723 | Remaining Dues @x877 | -91,877.02 @x1530
+[y=1229 x=879] Current Bill Amount | 45,570.25 @x1536
+[y=1250 x=122] Billing & Payment History J | Net Metering Benefit @x878 | -114,640.13 @x1524
+[y=1273 x=876] Outstanding Balance | -160,946.90 @x1521
+[y=1318 x=66] MM /YY | Billed Amount @x243 | Pay-Date @x465 | Payment @x709
+[y=1352 x=78] 05/26 | 32,842.35 @x284 | 06-Dec-25 @x462 | 3531.00 @x731
+[y=1380 x=78] 04/26 | 18,957.94 @x285 | 06-Nov-25 @x461 | 27914.00 @x720
+[y=1408 x=78] 03/26 | 13,564.05 @x284 | 07-0ct-25 @x463 | 29351.00 @x720
+[y=1437 x=64] For billing history, visit KE website. | KEZLA @x549
+[y=1495 x=271] Message Board
+[y=1547 x=40] FCA of XWDISCOs is also being charged to KE consumers as part of Uniform
+[y=1573 x=41] FCA starting from the month of Jun 25
+[y=1617 x=42] As per SR0547/2026 read with SR0251/2026,prosumers registered under the
+[y=1638 x=39] Prosumer Regulations 2026 (PR) are billed according to the rate and mechanism defined
+[y=1662 x=40] in PR. Net metering consumers with existing valid agreements continue to be billed under
+[y=1685 x=40] the repealed 2015 regulations until the expiry of their agreements.
+[y=1868 x=52] 83.60 % | ENERGY CHARGES @x526
+[y=1887 x=526] 38,098.01
+[y=1902 x=894] * Sales Tax Act, 1990- ** Income Tax 0rdinance, 2001
+[y=1916 x=53] 16.40 % | TAXES AND DUTIES @x526
+[y=1937 x=526] 7,472.24
+[y=1960 x=44] This electricity bill is issued solely forthe purpose of recovering charges for electricity consumption and applicable taxes.
+[y=1981 x=44] The inclusion of consumer name and address in this bill does not constitute or imply proof of ownership /title to the property.
+[y=2032 x=67] NKE | Invoice Number @x853 | Due Date @x1462
+[y=2087 x=48] Customer Name
+[y=2127 x=48] Account Number | 14-Jul-26-16-Jul-26 @x1167 | After 16-Jul-26 @x1470
+[y=2169 x=49] Contract Number
+[y=2257 x=1054] Bank Clearance / Signature

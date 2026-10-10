@@ -1,0 +1,11 @@
+{
+  "tariff": "A-2a(04)", "sanctioned_load": "1", "bill_month": "AUG 2026",
+  "reading_date": "26 AUG 26", "issue_date": "29 AUG 26", "due_date": "09 SEP 26",
+  "meter_rows": [{"label": null, "previous": "22238", "present": "22303", "units": "65"}],
+  "billed_units_headline": null,
+  "charge_lines": [{"label": "Total Electricity Charges", "amount": "3,777.49", "type": "energy"}],
+  "total_charges": "3,777.49", "tax_lines": [], "total_taxes": "1,723.51",
+  "current_bill": "5501", "arrears": "39411 / 2", "payable_within_due_date": "44912",
+  "payable_after_due_date_amounts": ["45088", "45263"], "payable_after_due_date_text": null,
+  "breakdown_values": ["3,777.49", "3,777.49", "1,723.51", "5501", "44912"]
+}

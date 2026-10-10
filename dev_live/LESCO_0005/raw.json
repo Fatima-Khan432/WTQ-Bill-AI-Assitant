@@ -1,0 +1,58 @@
+{
+  "tariff": "A-1b(03)T",
+  "sanctioned_load": "10",
+  "bill_month": "JUL 2026",
+  "reading_date": "17 JUL 26",
+  "issue_date": "20 JUL 26",
+  "due_date": "30 JUL 26",
+  "meter_rows": [
+    {
+      "label": null,
+      "previous": "11561",
+      "present": "12578",
+      "units": "1,017"
+    },
+    {
+      "label": null,
+      "previous": "3260",
+      "present": "3562",
+      "units": "302"
+    },
+    {
+      "label": null,
+      "previous": "21822",
+      "present": "22859",
+      "units": "1,037"
+    },
+    {
+      "label": null,
+      "previous": "5",
+      "present": "5",
+      "units": null
+    }
+  ],
+  "billed_units_headline": null,
+  "charge_lines": [
+    {
+      "label": "Total Electricity Charges",
+      "amount": "17,367.77",
+      "type": "energy"
+    }
+  ],
+  "total_charges": "17,367.77",
+  "tax_lines": [],
+  "total_taxes": "3,358.23",
+  "current_bill": "54770CR",
+  "arrears": "-75496",
+  "payable_within_due_date": "54770CR",
+  "payable_after_due_date_amounts": [],
+  "payable_after_due_date_text": "NOT TO BE PAID",
+  "breakdown_values": [
+    "17,367.77",
+    "17,367.77",
+    "3,358.23",
+    "20726",
+    "54770CR",
+    "-75496"
+  ]
+}

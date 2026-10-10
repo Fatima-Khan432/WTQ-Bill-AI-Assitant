@@ -1,0 +1,1 @@
+breakdown alignment re-assigned values: (net, taxes, current) ('17,367.77', '3,358.23', '54770CR') -> ('17,367.77', '3,358.23', '20726')

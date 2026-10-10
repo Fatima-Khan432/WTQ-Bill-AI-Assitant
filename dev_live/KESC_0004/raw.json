@@ -1,0 +1,95 @@
+{
+  "tariff": "A1-R",
+  "sanctioned_load": "10",
+  "bill_month": "Jun-26",
+  "reading_date": "25-Jun-26",
+  "issue_date": "29-Jun-2026",
+  "due_date": "13th Jul 2026",
+  "meter_rows": [
+    {
+      "label": "Energy - Off Peak",
+      "previous": "1163.29",
+      "present": "1923.73",
+      "units": "760.44"
+    },
+    {
+      "label": "Energy - Peak",
+      "previous": "402.35",
+      "present": "542.85",
+      "units": "140.5"
+    },
+    {
+      "label": "Import Energy Off Peak",
+      "previous": "10865.55",
+      "present": "12238.4",
+      "units": "1372.85"
+    },
+    {
+      "label": "Import Energy Peak",
+      "previous": "4.97",
+      "present": "6.53",
+      "units": "1.56"
+    }
+  ],
+  "billed_units_headline": "901 units =",
+  "charge_lines": [
+    {
+      "label": "Fixed Charges",
+      "amount": "3,375.00",
+      "type": "fixed"
+    },
+    {
+      "label": "Variable Off Peak",
+      "amount": "26,257.99",
+      "type": "energy"
+    },
+    {
+      "label": "Variable Peak",
+      "amount": "6,582.43",
+      "type": "energy"
+    },
+    {
+      "label": "Uniform Quarterly Adjustment",
+      "amount": "-1,442.74",
+      "type": "quarterly_adjustment"
+    },
+    {
+      "label": "Uniform Quarterly Adjustment",
+      "amount": "61.10",
+      "type": "quarterly_adjustment"
+    },
+    {
+      "label": "FCA :Apr-26",
+      "amount": "354.19",
+      "type": "fpa"
+    },
+    {
+      "label": "Additional Surcharge (PHL)",
+      "amount": "2,910.04",
+      "type": "surcharge"
+    }
+  ],
+  "total_charges": "38,098.01",
+  "tax_lines": [
+    {
+      "label": "Electricity Duty",
+      "amount": "520.85",
+      "type": "electricity_duty"
+    },
+    {
+      "label": "Sales Tax u/s 3(1)*",
+      "amount": "6,951.39",
+      "type": "gst"
+    }
+  ],
+  "total_taxes": "7,472.24",
+  "current_bill": "45,570.25",
+  "arrears": "Rs. -91,877.02",
+  "payable_within_due_date": "Rs. 0",
+  "payable_after_due_date_amounts": [
+    "0",
+    "0"
+  ],
+  "payable_after_due_date_text": null,
+  "breakdown_values": []
+}

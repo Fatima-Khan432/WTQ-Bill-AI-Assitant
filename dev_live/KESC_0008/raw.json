@@ -1,0 +1,77 @@
+{
+  "tariff": "A1-R",
+  "sanctioned_load": "3",
+  "bill_month": "Apr-26",
+  "reading_date": "03-Apr-26",
+  "issue_date": "07-Apr-2026",
+  "due_date": "21st Apr 2026",
+  "meter_rows": [
+    {
+      "label": "Energy",
+      "previous": "8819",
+      "present": "8970",
+      "units": "151"
+    }
+  ],
+  "billed_units_headline": "151 units =",
+  "charge_lines": [
+    {
+      "label": "Fixed Charges",
+      "amount": "900.00",
+      "type": "fixed"
+    },
+    {
+      "label": "Variable Upto 100 Units (Protected)",
+      "amount": "1,054.00",
+      "type": "energy"
+    },
+    {
+      "label": "Variable Upto 200 Units (Protected)",
+      "amount": "663.51",
+      "type": "energy"
+    },
+    {
+      "label": "Uniform Quarterly Adjustment",
+      "amount": "52.91",
+      "type": "quarterly_adjustment"
+    },
+    {
+      "label": "FCA :Feb-26",
+      "amount": "125.27",
+      "type": "fpa"
+    },
+    {
+      "label": "Additional Surcharge (PHL)",
+      "amount": "64.93",
+      "type": "surcharge"
+    }
+  ],
+  "total_charges": "2,860.62",
+  "tax_lines": [
+    {
+      "label": "Electricity Duty",
+      "amount": "29.41",
+      "type": "electricity_duty"
+    },
+    {
+      "label": "Sales Tax u/s 3(1)*",
+      "amount": "520.21",
+      "type": "gst"
+    },
+    {
+      "label": "MUCT (KMC)",
+      "amount": "20.00",
+      "type": "municipal_tax"
+    }
+  ],
+  "total_taxes": "569.62",
+  "current_bill": "3,430.24",
+  "arrears": "-0.53",
+  "payable_within_due_date": "Rs. 3,430",
+  "payable_after_due_date_amounts": [
+    "3,574",
+    "3,716"
+  ],
+  "payable_after_due_date_text": null,
+  "breakdown_values": []
+}

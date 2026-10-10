@@ -1,0 +1,59 @@
+[y=15 x=729] Sean Mlith Rankinn Ann
+[y=48 x=128] KE | You are a @x496 | CustomerInformation @x1052
+[y=83 x=493] STAR | Customer @x564 | Security Deposit @x942 | Contract No @x945 | 175.00 @x1182 | Sanc Load @x1290 | Conn Load @x1290 | 33 @x1541
+[y=134 x=941] Invoice No. | Tariff @x1290 | A1-R @x1514
+[y=153 x=943] Dispatch ID: | Customer Type @x1289 | STAR @x1510
+[y=183 x=65] Bill Month: Apr-26 | Issue Date:07-Apr-2026 @x263
+[y=206 x=932] KE NTN No.1543137-1 | KE GST No.12-00-2716-007-28 @x1294
+[y=231 x=589] DAD | User Name: @x933
+[y=271 x=608] Amount: 3430 | Tenant CNIC/NTN/STRN: @x933
+[y=296 x=931] Consumer | Meter No. @x1169
+[y=328 x=609] Payment ID:
+[y=430 x=84] Amount Due 小al, | Current Month @x478 | Previous Dues @x859 | Due Dateot @x1319
+[y=472 x=124] Rs. 3,430 | Rs. -0.53 @x933 | 21st Apr 2026 @x1276
+[y=496 x=76] AmountPayableafterDueDate | 151 units = @x509 | Remaining Dues 典 @x889 | Please pay within due date and save @x1261
+[y=557 x=48] Till 22-Apr - 24-Apr | Rs.3,574 @x200 | Rs.3,430.24 @x498 | Rs. -0.53 @x930 | Till 21-Apr-2026 @x1244 | Rs.286.06 @x1458
+[y=580 x=48] After 24-Apr | Rs.3,716 @x243 | Till 22-Apr - 24-Apr @x1243 | Rs.143.03 @x1421
+[y=719 x=151] ElectricityYouHave Used | Bill Calculation L>kJy_ @x1005
+[y=780 x=267] Previous Reading | Current Reading @x405 | Units (KWh) @x574 | MDI (KW) @x727 | Reading Date: 03-Apr-26 No.of Month(s): 1 @x1042
+[y=803 x=62] Energy | 8819 @x344 | 8970 @x476 | 151 @x619 | Bill Charge Mode: NORM I Installation Date: 20-Oct-1986 @x973
+[y=860 x=1245] Units | Rate @x1374 | Amount @x1535
+[y=889 x=877] Fixed Charges | 3.00 @x1277 | 300.0000 @x1365 | 900.00 @x1558
+[y=912 x=880] Variable Upto 100 Units (Protected) | 100.00 @x1265 | 10.5400 @x1374 | 1,054.00 @x1545
+[y=933 x=879] Variable Upto 200 Units (Protected) | 51.00 @x1270 | 13.0100 @x1373 | 663.51 @x1558
+[y=955 x=878] Uniform Quarterly Adjustment | 151.00 @x1264 | 0.3504 @x1380 | 52.91 @x1565
+[y=977 x=878] FCA :Feb-26 | 88 @x1292 | 1.4235 @x1380 | 125.27 @x1559
+[y=1000 x=143] 13 Month Usage History JJ13 | Additional Surcharge (PHL) @x877 | 151.00 @x1264 | 0.4300 @x1380 | 64.93 @x1565
+[y=1022 x=877] Electricity Charges | 2,860.62 @x1541
+[y=1044 x=877] Electricity Duty | 29.41 @x1565
+[y=1056 x=51] 2025 | 2026 @x704 | Sales Tax u/s 3(1)* @x878 | 520.21 @x1558
+[y=1089 x=878] MUCT (KMC) | 20.00 @x1565
+[y=1112 x=877] Taxes and Duties | 569.62 @x1556
+[y=1137 x=876] Electricity Charges for current month | 3,430.24 @x1542
+[y=1161 x=676] 115 | Opening Balance @x877 | 2,576.47 @x1542
+[y=1183 x=877] Payments/Adjustment | -2,577.00 @x1541
+[y=1204 x=71] Apr | May @x126 | Jun @x181 | Aug @x288 | Sep @x341 | Oct @x400 | Nov @x449 | Dec @x509 | Jan @x562 | Feb @x618 | Mar @x669 | Apr @x726 | Previous Dues @x876 | -0.53 @x1568
+[y=1229 x=878] Remaining Dues | -0.53 @x1568
+[y=1250 x=879] Current Bill Amount | 3,430.24 @x1544
+[y=1267 x=125] Billing&PaymentHistory | Amount Payable within Due Date @x877 | 3,430 @x1564
+[y=1295 x=880] Late Payment Surcharge (5%) | 143.03 @x1559
+[y=1317 x=66] MM /YY | Billed Amount @x243 | Pay-Date @x465 | Payment @x710 | Late Payment Surcharge (10%) @x878 | 286.06 @x1558
+[y=1342 x=879] Amount Payable from22-Apr -24-Apr with5% LPS | 3,574 @x1564
+[y=1351 x=78] 03/26 | 2,577.31 @x294 | 16-Mar-26 @x461 | 2577.00 @x731 | Amount Payable after 24-Apr-26 with 10% LPS @x877 | 3,716 @x1564
+[y=1379 x=78] 02/26 | 2,782.51 @x294 | 19-Feb-26 @x463 | 2783.00 @x730
+[y=1407 x=78] 01/26 | 2,780.55 @x294 | 15-Jan-26 @x463 | 2780.00 @x730
+[y=1437 x=64] For billing history, visit KE website. | KELLO @x549
+[y=1495 x=271] Message Board
+[y=1550 x=42] FCA of XWDISCOs is also being charged to KE consumers as part of Uniform
+[y=1573 x=41] FCA starting from the month of Jun 25
+[y=1868 x=52] 83.39 % | ENERGY CHARGES @x526
+[y=1887 x=526] 2,860.62
+[y=1902 x=892] * Sales Tax Act, 1990- ** Income Tax Ordinance, 2001
+[y=1916 x=53] 16.61 % | TAXES AND DUTIES @x526
+[y=1936 x=526] 569.62
+[y=1981 x=44] The inclusion of consumer name and address in this bill does not constitute or imply proof of ownership /title to the property.
+[y=2032 x=68] NKE | InvoiceNumber @x855 | Due Date @x1462
+[y=2087 x=48] Customer Name | 21-Apr-2026 @x1459
+[y=2127 x=48] Account Number | 22-Apr - 24-Apr @x1164 | After 24-Apr @x1470
+[y=2152 x=49] Contract Number | 3,430 @x856 | 3,574 @x1258 | 3,716 @x1532
+[y=2257 x=1054] Bank Clearance / Signature

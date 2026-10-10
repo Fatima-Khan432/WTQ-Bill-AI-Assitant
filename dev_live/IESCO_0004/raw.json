@@ -1,0 +1,53 @@
+{
+  "tariff": "A-1A(01)",
+  "sanctioned_load": "3",
+  "bill_month": "SEP 26",
+  "reading_date": "25 SEP 26",
+  "issue_date": "26 SEP 26",
+  "due_date": "08 OCT 26",
+  "meter_rows": [
+    {
+      "label": null,
+      "previous": "9301",
+      "present": "9459",
+      "units": "158"
+    }
+  ],
+  "billed_units_headline": null,
+  "charge_lines": [
+    {
+      "label": "Total Electricity Charges",
+      "amount": "6102",
+      "type": "energy"
+    },
+    {
+      "label": "Subsidies",
+      "amount": "3332",
+      "type": "subsidy"
+    },
+    {
+      "label": "Total FPA",
+      "amount": "267",
+      "type": "fpa"
+    }
+  ],
+  "total_charges": "2770",
+  "tax_lines": [],
+  "total_taxes": "498",
+  "current_bill": "3267",
+  "arrears": "0",
+  "payable_within_due_date": "3535",
+  "payable_after_due_date_amounts": [
+    "3,674",
+    "3,812"
+  ],
+  "payable_after_due_date_text": null,
+  "breakdown_values": [
+    "6102",
+    "3332",
+    "2770",
+    "498",
+    "3267",
+    "3535"
+  ]
+}
